@@ -1,5 +1,5 @@
 #Import de Hardening Kitty
-Import-Module .\HardeningKitty.psm1
+Import-Module C:\Users\Public\hardening\HardeningMoabee-main\HardeningKitty.psm1
 
 #######################
 ### Phase de backup ###
